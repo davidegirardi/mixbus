@@ -1,3 +1,5 @@
+ardour { ["type"] = "Snippet", name = "Run test code" }
+
 -- Run this from the Window > Scripting window
 -- It will run the code in my_file
 
